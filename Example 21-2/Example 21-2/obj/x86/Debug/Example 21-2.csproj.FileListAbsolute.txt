@@ -1,0 +1,28 @@
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\bin\Debug\Example 21-2.exe
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\bin\Debug\Example 21-2.pdb
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\bin\Debug\Interop.WMPLib.dll
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.csproj.ResolveComReference.cache
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\Example_21_2.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\Example_21_2.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.exe
+C:\Users\M-H Computer\Desktop\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\bin\Debug\Example 21-2.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\bin\Debug\Example 21-2.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\bin\Debug\Interop.WMPLib.dll
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\bin\Debug\AxInterop.WMPLib.dll
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Interop.WMPLib.dll
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.csproj.ResolveComReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example_21_2.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example_21_2.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part21\Example 21-2\Example 21-2\obj\x86\Debug\Example 21-2.pdb
